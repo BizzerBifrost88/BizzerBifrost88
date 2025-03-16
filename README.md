@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BizzerBifrost88
-- 👀 I’m interested in Data Analysis
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Framework Django and Electron
 - 💞️ I’m looking to collaborate on building system or something related to data
 - 📫 How to reach me via discord bizzerbifrost
